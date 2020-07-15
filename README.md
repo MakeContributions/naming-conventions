@@ -2,20 +2,20 @@
 A Coding Standards and Naming Conventions to all programing language
 
 # Programming language
-- [C# or CSharp](c#/README.md)
+- [C# or CSharp](csharp/README.md)
 
 # Contribution Guidelines
 ### Folder naming
 Here has some specification for its:
 - The **Folder**'s name should be the programming language name
 - It should be on **ASCII** characters
-- Could have special characters
+- Couldn't have special characters
 - Should be on the **lower case**
 
 Example:
 ```
-- c#
-- c++
+- csharp // Compliance
+- c# // Non-Compliance
 ```
 
 ### Translate

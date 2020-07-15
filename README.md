@@ -3,7 +3,13 @@ A Coding Standards and Naming Conventions to all programing language
 
 # Contribution Guidelines
 ### Folder naming
-The **Folder**'s name should be the programming language name, it should be **ASCII** characters and could we special characters, example:
+Here has some specification for its:
+- The **Folder**'s name should be the programming language name
+- It should be on **ASCII** characters
+- Could have special characters
+- Should be on the **lower case**
+
+Example:
 ```
 - c#
 - c++

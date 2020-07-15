@@ -2,7 +2,7 @@
 A Coding Standards and Naming Conventions to all programing language
 
 # Programming language
-- [C# or CSharp](./c#/README.md)
+- [C# or CSharp](c#/README.md)
 
 # Contribution Guidelines
 ### Folder naming

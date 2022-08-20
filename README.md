@@ -1,5 +1,5 @@
 # Naming Conventions
-A Coding Standards and Naming Conventions to all programing language
+A Coding Standards and Naming Conventions to all programming language
 
 # Programming language
 - [C# or CSharp](csharp/README.md)
